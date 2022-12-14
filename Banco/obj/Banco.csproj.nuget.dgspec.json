@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ana\\Source\\Repos\\SENAI-Banco\\Banco\\Banco.csproj": {}
+    "C:\\Users\\Ana\\source\\repos\\SENAI-Banco\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ana\\Source\\Repos\\SENAI-Banco\\Banco\\Banco.csproj": {
+    "C:\\Users\\Ana\\source\\repos\\SENAI-Banco\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ana\\Source\\Repos\\SENAI-Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\SENAI-Banco\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\Ana\\Source\\Repos\\SENAI-Banco\\Banco\\Banco.csproj",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\SENAI-Banco\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Ana\\Source\\Repos\\SENAI-Banco\\Banco\\obj\\",
         "projectStyle": "PackageReference",

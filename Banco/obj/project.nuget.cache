@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvEv2zUPg3MEz7raIUBRyzPgu52pwbylPlEUYoA9PiCxr+QPBDwXIXJcxYZjzDaTdHgQQwApppHLC7568+VWTg==",
+  "dgSpecHash": "nXu2AjuIfHWH9hD5cwZHD2ajasat1k/+5FOjDkILWmFDAaI3FIbR3Oxt5mQifT3AAEx/KOUtXrqtDzK5v/KhJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ana\\Source\\Repos\\SENAI-Banco\\Banco\\Banco.csproj",
+  "projectFilePath": "C:\\Users\\Ana\\source\\repos\\SENAI-Banco\\Banco\\Banco.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
